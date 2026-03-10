@@ -1,4 +1,4 @@
-yfinance
+yfinance==0.2.36
 pandas
 numpy
 plotly
@@ -7,3 +7,4 @@ arch
 scipy
 streamlit==1.32.0
 altair==4.2.2
+protobuf==3.20.3
