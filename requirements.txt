@@ -6,3 +6,4 @@ statsmodels
 arch
 scipy
 streamlit
+altair==4.2.2
